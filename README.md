@@ -17,6 +17,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 - CSS3
 - JavaScript
 
-##  Project Structure
+## Live Demo
 
-```bash
+https://akshit-singh-00.github.io/Rock-Paper-Scissors/
+
