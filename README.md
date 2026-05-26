@@ -20,9 +20,3 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ##  Project Structure
 
 ```bash
-Rock-Paper-Scissors/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
